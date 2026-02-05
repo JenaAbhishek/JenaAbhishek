@@ -11,6 +11,8 @@
 - 🌱 Learning Azure & System Design
 - 💬 Ask me about MEAN Stack, Firebase
 - 📫 aj381997@gmail.com
+- 📄 Know about my experiences: [Resume](./Abhishek_Jena_Resume.pdf)
+
 
 <p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/> </p>
 <p>
