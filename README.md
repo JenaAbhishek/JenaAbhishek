@@ -10,8 +10,9 @@
 - 🔭 Working on Angular, JavaScript, Node.js
 - 🌱 Learning Azure & System Design
 - 💬 Ask me about MEAN Stack, Firebase
-- 📫 aj381997@gmail.com
+- 📫 How to reach me aj381997@gmail.com
 - 📄 Know about my experiences: [Resume](./Abhishek_Jena_Resume.pdf)
+- ⚡ Fun fact I think I am funny.
 
 
 <p align="right">
