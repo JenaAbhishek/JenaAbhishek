@@ -12,10 +12,7 @@
 - 💬 Ask me about MEAN Stack, Firebase
 - 📫 aj381997@gmail.com
 
-<p align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</p>
-
+<p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/> </p>
 <p>
   <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb,azure,git" />
 </p>
