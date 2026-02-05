@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" width="100%" />
 
-<!--
-**JenaAbhishek/JenaAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- NAME -->
+<h1 align="center">Hi 👋, I'm Abhishek Jena</h1>
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=JenaAbhishek&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A Passionate Full Stack Developer
+
+- 🔭 Working on Angular, JavaScript, Node.js
+- 🌱 Learning Azure & System Design
+- 💬 Ask me about MEAN Stack, Firebase
+- 📫 aj381997@gmail.com
+
+<p align="right">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb,azure,git" />
+</p>
+
