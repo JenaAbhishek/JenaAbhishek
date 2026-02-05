@@ -14,7 +14,14 @@
 - 📄 Know about my experiences: [Resume](./Abhishek_Jena_Resume.pdf)
 
 
-<p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/> </p>
+<p align="right">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="420"
+    alt="Coding animation"
+  />
+</p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb,azure,git" />
 </p>
