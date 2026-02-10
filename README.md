@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JenaAbhishek&color=blue)
 
-### A Passionate Full Stack Developer
+### Full-Stack Developer | Angular • Node.js • Azure
 
 - 🔭 Working on Angular, JavaScript, Node.js
 - 🌱 Learning Azure & System Design
@@ -13,6 +13,9 @@
 - 📫 How to reach me aj381997@gmail.com
 - 📄 Know about my experiences: [Resume](./Abhishek_Jena_Resume.pdf)
 - ⚡ Fun fact I think I am funny.
+  <br>
+<h3 >🔍 **Open to roles:**  </h3>
+Angular Developer • Frontend Engineer • Full-Stack Developer
 
 
 <p align="right">
@@ -23,6 +26,7 @@
   />
 </p>
 
+### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb,azure,git" />
 </p>
