@@ -17,13 +17,13 @@
 - 💬 Ask me about MEAN Stack, Firebase
 - 📫 How to reach me aj381997@gmail.com
 - 📄 Know about my experiences: [Resume](./Abhishek_Jena_Resume.pdf)
-- ⚡ Fun fact I think I am funny.
+- ⚡ Fun facts I think I am funny.
 
 ### 🔍 Open to roles:
 Angular Developer • Frontend Engineer • Full-Stack Developer
 
 <br clear="right"/>
-### 🛠 Tech Stack
+### 🛠 Tech Stack 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb,azure,git" />
 </p>
